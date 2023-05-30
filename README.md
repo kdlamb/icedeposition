@@ -6,6 +6,7 @@
 This repo contains the analysis code for the paper "Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds – Part 1: Model description and sensitivity tests". 
 
 ## Citation
+[![DOI](https://zenodo.org/badge/647344306.svg)](https://zenodo.org/badge/latestdoi/647344306)
 
 The preprint for this paper can be found at:
 
