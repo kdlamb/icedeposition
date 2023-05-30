@@ -29,8 +29,7 @@ DOI = {10.5194/acp-2022-733}
 
 ## Data Preparation
 
-Data sets from the IsoCloud experiments are preprocessed using the AIDA Preprocessing.ipynb notebook. These data sets are used to initialize the parcel model described in Zhang and Harrington, 2014. The parcel model has been adopted for the AIDA chamber, and includes different parameterizations for the deposition coefficient. The Lagrangian parcel
-model code used in this analysis was provided by Jerry Y. Harrington. 
+Data sets from the IsoCloud experiments are preprocessed using the AIDA Preprocessing.ipynb notebook. These data sets are used to initialize the parcel model described in Zhang and Harrington, 2014. The parcel model has been adopted for the AIDA chamber, and includes different parameterizations for the deposition coefficient. The Lagrangian parcel model code used in this analysis is available upon request from Jerry Y. Harrington. 
 
 ## Parcel Model Analysis
 
@@ -40,4 +39,4 @@ Output from the parcel model are analysed in the ParcelModelOutput.ipynb noteboo
 The DiskIce.ipynb notebook contains code to plot the parameterizations for deposition coefficient function used in the parcel model. 
 
 ## Data Availability
-Data sets for the IsoCloud 4 campaigns used in this analysis can be found at 
+Data sets for the IsoCloud 4 campaigns and output for the parcel model used in this analysis can be found at 10.5281/zenodo.7986868.
