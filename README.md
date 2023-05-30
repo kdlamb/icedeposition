@@ -1,5 +1,7 @@
 # Depositional Ice Growth Analysis for the IsoCloud Experiments
 
+![IceSurfaceFigure](IceSurfaceFigure.png)
+
 ## Overview
 This repo contains the analysis code for the paper "Re-evaluating cloud chamber constraints on depositional ice growth in cirrus clouds – Part 1: Model description and sensitivity tests". 
 
@@ -23,6 +25,7 @@ DOI = {10.5194/acp-2022-733}
 - [Data Preparation](#data-preparation)
 - [Parcel Model Analysis](#analysis)
 - [DiskIce](#DiskIce)
+- [Data Availability](#DataAvailability)
 
 ## Data Preparation
 
@@ -35,3 +38,6 @@ Output from the parcel model are analysed in the ParcelModelOutput.ipynb noteboo
 
 ## DiskIce
 The DiskIce.ipynb notebook contains code to plot the parameterizations for deposition coefficient function used in the parcel model. 
+
+## Data Availability
+Data sets for the IsoCloud 4 campaigns used in this analysis can be found at 
